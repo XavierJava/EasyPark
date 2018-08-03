@@ -6,7 +6,7 @@ import android.os.Parcel;
 import com.arlib.floatingsearchview.suggestions.model.SearchSuggestion;
 
 /**
- * Created by 张兴锐 on 2017/11/16.
+ * Created by Raven on 2017/11/16.
  */
 
 @SuppressLint("ParcelCreator")

@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import com.jacob.www.easycar.R;
 
 /**
- * Created by 张兴锐 on 2017/11/16.
+ * Created by Raven on 2017/11/16.
  */
 
 public class VerifyButton extends android.support.v7.widget.AppCompatButton {

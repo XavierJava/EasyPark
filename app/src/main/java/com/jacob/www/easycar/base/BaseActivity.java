@@ -10,7 +10,7 @@ import com.jacob.www.easycar.util.ProgressDialogUtils;
 import butterknife.ButterKnife;
 
 /**
- * Created by 张兴锐 on 2017/11/12.
+ * Created by Raven on 2017/11/12.
  */
 
 public abstract class BaseActivity extends AppCompatActivity implements BaseView{

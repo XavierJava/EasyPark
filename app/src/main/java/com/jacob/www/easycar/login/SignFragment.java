@@ -18,7 +18,7 @@ import cn.smssdk.OnSendMessageHandler;
 import cn.smssdk.SMSSDK;
 
 /**
- * Created by 张兴锐 on 2017/11/15.
+ * Created by Raven on 2017/11/15.
  */
 
 public class SignFragment extends BaseFragment implements LogInContract.View {

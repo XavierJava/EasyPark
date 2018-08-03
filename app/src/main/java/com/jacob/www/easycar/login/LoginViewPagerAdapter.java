@@ -7,7 +7,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 import java.util.List;
 
 /**
- * Created by 张兴锐 on 2017/11/15.
+ * Created by Raven on 2017/11/15.
  */
 
 public class LoginViewPagerAdapter extends FragmentPagerAdapter {

@@ -17,7 +17,7 @@ import butterknife.BindView;
 import butterknife.OnClick;
 
 /**
- * Created by 张兴锐 on 2017/12/9.
+ * Created by Raven on 2017/12/9.
  */
 
 public class SettingChangFragment extends BaseFragment implements MainContract.View {
